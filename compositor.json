@@ -46,8 +46,8 @@
     },
     {
       "component": "header",
-      "heading": "compositor-test",
-      "subhead": null,
+      "heading": "Compositor Test",
+      "subhead": "This is the subheading",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -58,6 +58,18 @@
           "component": "ui/GithubButton",
           "user": "lamego",
           "repo": "compositor-test"
+        }
+      ],
+      "slug": "Testing the editor features",
+      "text": "This is the text field",
+      "links": [
+        {
+          "href": "#link1",
+          "text": "Link 1"
+        },
+        {
+          "href": "#link2",
+          "text": "Link 2"
         }
       ]
     },
